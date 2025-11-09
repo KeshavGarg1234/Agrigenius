@@ -1,0 +1,9 @@
+{
+  "name": "AgriGenius",
+  "description": "An AI-powered agricultural assistant for farmers. It features a crop disease detection system using image analysis, provides solutions, and offers personalized advice based on live sensor data.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
